@@ -1,0 +1,5 @@
+scenario,service_level_%,unmet_kg,bottleneck,kg_gained_per_extra_hr,util_L1_%,util_L2_%,util_L3_%,util_L4_%
+Base plan,99.98,5745,L2,1717.0,99.4,86.5,84.5,51.8
+Growth +20%,97.51,1113966,L2,10584.0,100.0,98.6,100.0,87.9
+Growth +20% + 3rd shift on L2,98.27,771897,L1,10140.0,100.0,68.6,100.0,87.8
+Growth +20% + 3rd shift on L3,99.47,235208,L2,3717.0,100.0,98.6,90.8,67.4

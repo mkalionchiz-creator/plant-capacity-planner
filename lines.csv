@@ -1,0 +1,5 @@
+line_id,name,shifts_per_day,hours_per_shift,days_per_month,oee,maintenance_hrs
+L1,Fresh cheese line,3,8,26,0.78,24
+L2,Pasta filata line,2,8,26,0.72,16
+L3,Aged cheese line,2,8,24,0.8,16
+L4,Multi-purpose line,2,8,26,0.7,20
